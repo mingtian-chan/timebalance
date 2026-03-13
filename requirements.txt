@@ -1,0 +1,7 @@
+Django==5.1.4
+PyMySQL==1.1.0
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+python-dotenv==1.0.0
+PyJWT==2.8.0
+# Pillow==10.2.0  # 프로필 이미지 업로드 기능 추가 시 설치: pip install Pillow
